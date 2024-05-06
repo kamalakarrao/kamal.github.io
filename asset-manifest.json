@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kamal.github.io/static/css/main.f71fb7e1.css",
-    "main.js": "/kamal.github.io/static/js/main.f27965af.js",
+    "main.js": "/kamal.github.io/static/js/main.a6ca3b5c.js",
     "static/js/415.4d6acbeb.chunk.js": "/kamal.github.io/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/kamal.github.io/static/js/787.1ed0c42c.chunk.js",
     "static/media/dummyImage.png": "/kamal.github.io/static/media/dummyImage.b3f230ec176fc9e5fe10.png",
@@ -14,12 +14,12 @@
     "static/media/pre.svg": "/kamal.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/kamal.github.io/index.html",
     "main.f71fb7e1.css.map": "/kamal.github.io/static/css/main.f71fb7e1.css.map",
-    "main.f27965af.js.map": "/kamal.github.io/static/js/main.f27965af.js.map",
+    "main.a6ca3b5c.js.map": "/kamal.github.io/static/js/main.a6ca3b5c.js.map",
     "415.4d6acbeb.chunk.js.map": "/kamal.github.io/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/kamal.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f71fb7e1.css",
-    "static/js/main.f27965af.js"
+    "static/js/main.a6ca3b5c.js"
   ]
 }
